@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>festivus.dev</title>
+    <link>https://festivus.dev/</link>
+    <description>Recent content on festivus.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://festivus.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modern Web Architectures</title>
+      <link>https://festivus.dev/modern-web-architectures/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://festivus.dev/modern-web-architectures/</guid>
+      <description>Modern Web Architectures Modern web architectures. pic.twitter.com/jNxbchFbpS
+&amp;mdash; Den Delimarsky (@DennisCode) November 25, 2020  </description>
+    </item>
+    
+    <item>
+      <title>Quarterly Planning</title>
+      <link>https://festivus.dev/quarterly-planning/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://festivus.dev/quarterly-planning/</guid>
+      <description>Quarterly Planning Quarterly planning. pic.twitter.com/KJIyRzj2ZH
+&amp;mdash; Den Delimarsky (@DennisCode) November 25, 2020  </description>
+    </item>
+    
+  </channel>
+</rss>
