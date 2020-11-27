@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://festivus.dev/internet-of-things/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://festivus.dev/modern-web-architectures/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
