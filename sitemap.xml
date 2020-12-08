@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://festivus.dev/web-development/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://festivus.dev/artificial-intelligence/</loc>
     <lastmod>2020-12-04T00:00:00+00:00</lastmod>
   </url>
