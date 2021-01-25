@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://festivus.dev/modern-investment-advice/</loc>
+    <lastmod>2021-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://festivus.dev/hacker-news-comments/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
